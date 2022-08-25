@@ -81,7 +81,8 @@ h6 {
 
 #header h1 a,
 #header h1 a:hover {
-  color: #fff;
+  /* color: #fff; */
+  color: #294244;  
   line-height: 1;
   display: inline-block;
 }
@@ -94,7 +95,9 @@ h6 {
 
 #header h2 span {
   color: #fff;
-  border-bottom: 2px solid #18d26e;
+  /* border-bottom: 2px solid #18d26e; */
+  border-bottom: 2px solid #294244;
+
   padding-bottom: 6px;
 }
 
@@ -241,7 +244,9 @@ h6 {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #18d26e;
+  /* background-color: #18d26e;  294244 */
+  background-color: #294244;  
+
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
