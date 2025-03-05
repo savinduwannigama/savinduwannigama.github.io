@@ -1,7 +1,7 @@
 ![Profile Picture](assets/images/profilepicture.jpeg)
 
-Researcher | Computer Engineer | Software Engineer  
-📧 [Email](mailto:e17369@eng.pdn.ac.lk) | 🔗 [Resume](assets/docs/Savindu_CV.pdf) | 🐙 [GitHub](https://github.com/savinduwannigama) | 💼 [LinkedIn](https://www.linkedin.com/in/savindu-wannigama-a62141216/)
+Researcher \| Computer Engineer \| Software Engineer  
+📧 [Email](mailto:e17369@eng.pdn.ac.lk) \| 🔗 [Resume](assets/docs/Savindu_CV.pdf) \| 🐙 [GitHub](https://github.com/savinduwannigama) \| 💼 [LinkedIn](https://www.linkedin.com/in/savindu-wannigama-a62141216/)
 
 ---
 
@@ -35,13 +35,13 @@ I am a **Computer Engineer** passionate about **Machine Learning, AI Research, a
 
 ## 🎓 Education  
 - **B.Sc. Engineering (Hons) in Computer Engineering** – University of Peradeniya, Sri Lanka (Jan 2019 – Dec 2023)  
-  - **GPA:** 3.95/4.0 | **First Class Honors** | **University Gold Medal (Best All-Rounder)**  
+  - **GPA:** 3.95/4.0 \| **First Class Honors** \| **University Gold Medal (Best All-Rounder)**  
   - **Activities and Societies:**  
     - Represented the university at **SLUG (Sri Lanka University Games)** – 2019, 2023  
     - Represented the university at **Inter-University Games** – 2020, 2022  
 
 - **G.C.E. Advanced Level in Physical Sciences** – Trinity College Kandy (Jan 2007 – Aug 2017)  
-  - **Grade:** Z-Score: 2.6383 | **National Rank:** 06 | **Provincial Rank:** 01  
+  - **Grade:** Z-Score: 2.6383 \| **National Rank:** 06 \| **Provincial Rank:** 01  
 
 ---
 
