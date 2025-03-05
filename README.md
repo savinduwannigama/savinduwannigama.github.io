@@ -2,22 +2,24 @@
 
 ![Profile Picture](assets/images/profilepicture.jpeg)
 
-**Software Engineer | Researcher | Computer Engineer**  
-📧 [Email](mailto:e17369@eng.pdn.ac.lk) | 🔗 [Resume](assets/docs/Savindu_CV___UNSW_round_2.pdf) | 🐙 [GitHub](https://github.com/savinduwannigama) | 💼 [LinkedIn](https://www.linkedin.com/in/savindu-wannigama-a62141216/)
+Researcher | Computer Engineer | Software Engineer  
+📧 [Email](mailto:e17369@eng.pdn.ac.lk) | 🔗 [Resume](assets/docs/Savindu_CV.pdf) | 🐙 [GitHub](https://github.com/savinduwannigama) | 💼 [LinkedIn](https://www.linkedin.com/in/savindu-wannigama-a62141216/)
 
 ---
 
 ## About Me  
-I am a **Computer Engineer** passionate about **Machine Learning, AI Research, and Software Engineering**. My work includes **deep learning, algorithmic programming, and networked AI systems**. I enjoy solving complex engineering challenges and contributing to open-source projects.
+I am a **Computer Engineer** passionate about **Machine Learning, AI Research, and Software Engineering**. My work includes **Deep Learning, Algorithmic Programming, and Computer Network Systems**. I enjoy solving complex engineering challenges and contributing to open-source projects.
 
 💡 *Explore my research, projects, and experience below!*
 
 ---
 
 ## 📚 Recent Highlights
-- **September 2024**: Presented at the *AAAI Workshop on Machine Learning for Autonomous Driving*.
-- **July 2024**: Published research on *Retrieval-Augmented Generation (RAG) AI models*.
-- **June 2024**: Won an award at the *IEEE WoWMoM Smart Computing Conference*.
+- **March 4, 2025**: *My AAAI research paper on 3D Semantic Occupancy Prediction was presented by [Mr. Gihan Jayatilaka](https://www.cs.umd.edu/~gihan/) at the AAAI Workshop on Machine Learning for Autonomous Driving. The work received the **Best Paper award** for its novel approach to spatiotemporal representation and its impact on autonomous driving research.*
+- **December 18, 2024**: *Received acceptance for my AAAI paper titled "A Spatiotemporal Approach to Tri‑Perspective Representation for 3D Semantic Occupancy Prediction," contributing novel insights into deep learning applications in autonomous driving.*
+- **August 22, 2024**: *Awarded the prestigious **University Gold Medal for Best All-Round Student** at the University of Peradeniya, recognizing excellence in both academic and extracurricular achievements among 400+ students in the Faculty of Engineering.*
+- **June 4, 2024**: *My IEEE WoWMoM research paper on behavioral transparency of IoT protocols was presented by [Prof. Hassan Habibi Gharakheili](https://www2.ee.unsw.edu.au/~hhabibi/) at the IEEE WoWMoM Workshop on Smart Computing for Smart Cities (SC2). The study addresses security concerns in networked assets and IoT communications.*
+- **April 3, 2024**: *Received acceptance for my IEEE WoWMoM paper titled "Unveiling Behavioral Transparency of Protocols Communicated by IoT Networked Assets," marking a significant milestone in my research on cybersecurity and smart computing.*
 
 ---
 
@@ -35,19 +37,25 @@ I am a **Computer Engineer** passionate about **Machine Learning, AI Research, a
 ---
 
 ## 🎓 Education  
-- **B.Sc. Eng. (Hons), Computer Engineering** – University of Peradeniya, Sri Lanka (2017–2022)  
-- 📄 [Download CV](assets/docs/Savindu_CV___UNSW_round_2.pdf)  
+- **B.Sc. Engineering (Hons) in Computer Engineering** – University of Peradeniya, Sri Lanka (Jan 2019 – Dec 2023)  
+  - **GPA:** 3.95/4.0 | **First Class Honors** | **University Gold Medal (Best All-Rounder)**  
+  - **Activities and Societies:**  
+    - Represented the university at **SLUG (Sri Lanka University Games)** – 2019, 2023  
+    - Represented the university at **Inter-University Games** – 2020, 2022  
+
+- **G.C.E. Advanced Level in Physical Sciences** – Trinity College Kandy (Jan 2007 – Aug 2017)  
+  - **Grade:** Z-Score: 2.6383 | **National Rank:** 06 | **Provincial Rank:** 01  
 
 ---
 
 ## 💼 Work Experience  
+- **Teaching Assistant, University of Peradeniya (Jan 2025 – Present)**  
+  - Conducted lab sessions, graded coursework, and mentored students in **Computer Engineering** courses.  
+
 - **Research and Development Engineer, CodeGen International (Feb 2024 – Jan 2025)**  
   - Developed **AI-powered Retrieval-Augmented Generation (RAG) pipelines** to optimize document retrieval.  
   - Designed **zero-shot intent classifiers** and **GPT-based AI models** for context-aware automation.  
   - Deployed AI models on **GPU-accelerated cloud infrastructure** using Docker and CUDA.  
-
-- **Teaching Assistant, University of Peradeniya (Jan 2025 – Present)**  
-  - Conducted lab sessions, graded coursework, and mentored students in **Computer Engineering** courses.  
 
 - **Research Intern, CyAmast (Dec 2022 – Jun 2023)**  
   - Developed **deterministic AI models** for **network security analytics**.  
@@ -55,25 +63,5 @@ I am a **Computer Engineer** passionate about **Machine Learning, AI Research, a
 
 ---
 
-## 🚀 Projects  
-- **Remote Proctoring System (2021)**  
-  - Developed a **smart proctoring device** for remote exams.  
-  - 🔗 [GitHub](https://github.com/savinduwannigama/e17-3yp-remote-proctoring-system)  
+I have more to share and will keep updating this site as I find time!
 
-- **Vital Monitor System (2020)**  
-  - Built a **real-time health monitoring system**.  
-  - 🔗 [GitHub](https://github.com/savinduwannigama/CO327-Mini-Project---Vital-Monitor-System)  
-
----
-
-## 🛠 Technical Skills  
-- **Languages:** Python, Java, C/C++, JavaScript  
-- **Frameworks & Libraries:** PyTorch, OpenCV, TensorFlow, scikit-learn  
-- **Tools:** Git, Linux, Docker, Apache Airflow, Vector Databases  
-
----
-
-## 🌍 Connect with Me  
-📧 [Email](mailto:e17369@eng.pdn.ac.lk) | 🔗 [Resume](assets/docs/Savindu_CV___UNSW_round_2.pdf) | 🐙 [GitHub](https://github.com/savinduwannigama) | 💼 [LinkedIn](https://www.linkedin.com/in/savindu-wannigama-a62141216/)  
-
-*This website is powered by GitHub Pages and GitHub-flavored Markdown.*
