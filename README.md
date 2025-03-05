@@ -15,10 +15,10 @@ I am a **Computer Engineer** passionate about **Machine Learning, AI Research, a
 ---
 
 ## 📚 Recent Highlights
-- **March 4, 2025**: *My AAAI research paper on 3D Semantic Occupancy Prediction was presented by [Mr. Gihan Jayatilaka](https://www.cs.umd.edu/~gihan/) at the AAAI Workshop on Machine Learning for Autonomous Driving. The work received the **Best Paper award** for its novel approach to spatiotemporal representation and its impact on autonomous driving research.*
+- **March 4, 2025**: *My AAAI research paper on 3D Semantic Occupancy Prediction was presented by [Mr. Gihan Jayatilaka](https://www.cs.umd.edu/~gihan/) at the AAAI Workshop on Machine Learning for Autonomous Driving in Philadelphia, USA. The work received the **Best Paper award** for its novel approach to spatiotemporal representation and its impact on autonomous driving research.*
 - **December 18, 2024**: *Received acceptance for my AAAI paper titled "A Spatiotemporal Approach to Tri‑Perspective Representation for 3D Semantic Occupancy Prediction," contributing novel insights into deep learning applications in autonomous driving.*
-- **August 22, 2024**: *Awarded the prestigious **University Gold Medal for Best All-Round Student** at the University of Peradeniya, recognizing excellence in both academic and extracurricular achievements among 400+ students in the Faculty of Engineering.*
-- **June 4, 2024**: *My IEEE WoWMoM research paper on behavioral transparency of IoT protocols was presented by [Prof. Hassan Habibi Gharakheili](https://www2.ee.unsw.edu.au/~hhabibi/) at the IEEE WoWMoM Workshop on Smart Computing for Smart Cities (SC2). The study addresses security concerns in networked assets and IoT communications.*
+- **August 22, 2024**: *Awarded the prestigious **University Gold Medal for Best All-Round Student** at the University of Peradeniya General Convocation 2023, recognizing excellence in both academic and extracurricular achievements among 400+ students in the Faculty of Engineering.*
+- **June 4, 2024**: *My IEEE WoWMoM research paper on behavioral transparency of IoT protocols was presented by [Prof. Hassan Habibi Gharakheili](https://www2.ee.unsw.edu.au/~hhabibi/) at the IEEE WoWMoM Workshop on Smart Computing for Smart Cities (SC2) in Perth, Australia. The study addresses security concerns in networked assets and IoT communications.*
 - **April 3, 2024**: *Received acceptance for my IEEE WoWMoM paper titled "Unveiling Behavioral Transparency of Protocols Communicated by IoT Networked Assets," marking a significant milestone in my research on cybersecurity and smart computing.*
 
 ---
