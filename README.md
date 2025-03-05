@@ -23,6 +23,7 @@ I am a **Computer Engineer** passionate about **Machine Learning, AI Research, a
 
 ## 📖 Publications  
 - **A Spatiotemporal Approach to Tri‑Perspective Representation for 3D Semantic Occupancy Prediction**  
+<img src="assets/images/visualization.gif" alt="Visualization" width="1000">
   - *AAAI Workshop on Machine Learning for Autonomous Driving, 2025*  
   - 📄 [Read Paper](https://doi.org/10.48550/arXiv.2401.13785)  
   - 📄 [AAAI AI4AD Presentation](assets/docs/AAAI%20-%20AI4AD%20Presentation.pdf)  
