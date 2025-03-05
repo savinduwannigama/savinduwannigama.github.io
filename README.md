@@ -1,5 +1,3 @@
-# Savindu Wannigama  
-
 ![Profile Picture](assets/images/profilepicture.jpeg)
 
 Researcher | Computer Engineer | Software Engineer  
