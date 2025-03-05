@@ -25,13 +25,11 @@ I am a **Computer Engineer** passionate about **Machine Learning, AI Research, a
 - **A Spatiotemporal Approach to Tri‑Perspective Representation for 3D Semantic Occupancy Prediction**  
 <img src="assets/images/visualization.gif" alt="Visualization" width="1000">
   - *AAAI Workshop on Machine Learning for Autonomous Driving, 2025*  
-  - 📄 [Read Paper](https://doi.org/10.48550/arXiv.2401.13785)  
-  - 📄 [AAAI AI4AD Presentation](assets/docs/AAAI%20-%20AI4AD%20Presentation.pdf)  
-  - 📄 [AAAI AI4AD Poster](assets/docs/AAAI_S2TPVFormer_Poster.pdf)  
+  [Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/) \| [Read Paper](https://doi.org/10.48550/arXiv.2401.13785) \| [Presentation](assets/docs/AAAI%20-%20AI4AD%20Presentation.pdf) \| [Poster](assets/docs/AAAI_S2TPVFormer_Poster.pdf)  
 
 - **Unveiling Behavioral Transparency of Protocols Communicated by IoT Networked Assets**  
   - *IEEE WoWMoM Workshop on Smart Computing for Smart Cities (SC2), 2024*  
-  - 📄 [Read Paper](https://doi.org/10.48550/arXiv.2404.07408)
+  [Read Paper](https://doi.org/10.48550/arXiv.2404.07408)
 
 ---
 
